@@ -1,0 +1,25 @@
+C:\Users\CCU\source\repos\Demoex loginov ISIP 402\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\CCU\source\repos\Demoex loginov ISIP 402\bin\Debug\net8.0\appsettings.json
+C:\Users\CCU\source\repos\Demoex loginov ISIP 402\bin\Debug\net8.0\Demoex loginov ISIP 402.exe
+C:\Users\CCU\source\repos\Demoex loginov ISIP 402\bin\Debug\net8.0\Demoex loginov ISIP 402.deps.json
+C:\Users\CCU\source\repos\Demoex loginov ISIP 402\bin\Debug\net8.0\Demoex loginov ISIP 402.runtimeconfig.json
+C:\Users\CCU\source\repos\Demoex loginov ISIP 402\bin\Debug\net8.0\Demoex loginov ISIP 402.dll
+C:\Users\CCU\source\repos\Demoex loginov ISIP 402\bin\Debug\net8.0\Demoex loginov ISIP 402.pdb
+C:\Users\CCU\source\repos\Demoex loginov ISIP 402\obj\Debug\net8.0\Demoex loginov ISIP 402.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CCU\source\repos\Demoex loginov ISIP 402\obj\Debug\net8.0\Demoex loginov ISIP 402.AssemblyInfoInputs.cache
+C:\Users\CCU\source\repos\Demoex loginov ISIP 402\obj\Debug\net8.0\Demoex loginov ISIP 402.AssemblyInfo.cs
+C:\Users\CCU\source\repos\Demoex loginov ISIP 402\obj\Debug\net8.0\Demoex loginov ISIP 402.csproj.CoreCompileInputs.cache
+C:\Users\CCU\source\repos\Demoex loginov ISIP 402\obj\Debug\net8.0\Demoex loginov ISIP 402.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CCU\source\repos\Demoex loginov ISIP 402\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\CCU\source\repos\Demoex loginov ISIP 402\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\CCU\source\repos\Demoex loginov ISIP 402\obj\Debug\net8.0\staticwebassets\msbuild.Demoex loginov ISIP 402.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\CCU\source\repos\Demoex loginov ISIP 402\obj\Debug\net8.0\staticwebassets\msbuild.build.Demoex loginov ISIP 402.props
+C:\Users\CCU\source\repos\Demoex loginov ISIP 402\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Demoex loginov ISIP 402.props
+C:\Users\CCU\source\repos\Demoex loginov ISIP 402\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Demoex loginov ISIP 402.props
+C:\Users\CCU\source\repos\Demoex loginov ISIP 402\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\CCU\source\repos\Demoex loginov ISIP 402\obj\Debug\net8.0\scopedcss\bundle\Demoex loginov ISIP 402.styles.css
+C:\Users\CCU\source\repos\Demoex loginov ISIP 402\obj\Debug\net8.0\Demoex loginov ISIP 402.dll
+C:\Users\CCU\source\repos\Demoex loginov ISIP 402\obj\Debug\net8.0\refint\Demoex loginov ISIP 402.dll
+C:\Users\CCU\source\repos\Demoex loginov ISIP 402\obj\Debug\net8.0\Demoex loginov ISIP 402.pdb
+C:\Users\CCU\source\repos\Demoex loginov ISIP 402\obj\Debug\net8.0\Demoex loginov ISIP 402.genruntimeconfig.cache
+C:\Users\CCU\source\repos\Demoex loginov ISIP 402\obj\Debug\net8.0\ref\Demoex loginov ISIP 402.dll

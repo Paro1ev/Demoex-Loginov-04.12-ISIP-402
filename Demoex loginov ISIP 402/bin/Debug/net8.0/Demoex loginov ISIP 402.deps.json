@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Demoex loginov ISIP 402/1.0.0": {
+        "runtime": {
+          "Demoex loginov ISIP 402.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Demoex loginov ISIP 402/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
