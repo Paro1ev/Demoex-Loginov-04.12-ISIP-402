@@ -1,5 +1,5 @@
 List<Order> repo = [
-    new Order(1, new(1995,5,28), "Принтер","экстрим-икс","разорвало клетчатку","Логинов Кирилл Денисович","89521444789","Игорь","В ожидании")
+    new Order(1, new(1995,5,28), "Принтер","экстрим-икс","разорвало клетчатку","Логинов Кирилл Денисович","89521444789","В ожидании")
     ];
 
 var builder = WebApplication.CreateBuilder();
@@ -69,7 +69,7 @@ app.Run();
 
 
 
-class Order (int number, DateOnly startDate, string device, string model, string problemDescription, string client, string phoneNumber, string master, string status)
+class Order (int number, DateOnly startDate, string device, string model, string problemDescription, string client, string phoneNumber, string status)
 {
 
     public int Number { get; set; } = number;
